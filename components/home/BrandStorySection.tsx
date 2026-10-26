@@ -88,8 +88,8 @@ export default function BrandStorySection() {
 
             <div className="relative aspect-[3/4] rounded-2xl overflow-hidden bg-belmo-beige/40 shadow-xl -mt-4">
               <Image
-                src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80"
-                alt="Belmo Living Architectural Living Space"
+                src="https://images.unsplash.com/photo-1617098900591-3f90928e8c54?auto=format&fit=crop&w=1200&q=80"
+                alt="Belmo Living Master Platform Bed Suite"
                 fill
                 sizes="(max-width: 1024px) 50vw, 30vw"
                 className="object-cover"

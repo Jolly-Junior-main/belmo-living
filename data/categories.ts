@@ -22,7 +22,7 @@ export const CATEGORIES: CategoryInfo[] = [
     slug: 'living-room-furniture',
     headline: 'Monolithic Tables, Credenzas & Consoles',
     description: 'Honed Travertine slabs, solid smoked oak joinery, and minimalist media consoles designed to anchor modern living sanctuaries.',
-    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+    image: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=85',
     itemCount: 22,
   },
   {

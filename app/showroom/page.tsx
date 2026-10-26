@@ -53,7 +53,7 @@ export default function ShowroomPage() {
         <div className="grid grid-cols-1 md:grid-cols-12 gap-6 mb-20">
           <div className="md:col-span-8 relative aspect-[16/10] rounded-3xl overflow-hidden bg-belmo-charcoal shadow-xl">
             <Image
-              src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85"
+              src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1600&q=85"
               alt="Belmo Living Soho Showroom Main Gallery"
               fill
               priority

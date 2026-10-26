@@ -184,9 +184,9 @@ export const PRODUCTS: Product[] = [
     },
     leadTime: '4-6 Weeks Custom Quarry Selection',
     featured: true,
-    heroImage: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+    heroImage: 'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85',
     galleryImages: [
-      'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+      'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85',
       'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85'
     ],
     variants: [
@@ -196,7 +196,7 @@ export const PRODUCTS: Product[] = [
         material: 'Tivoli Travertine',
         colorHex: '#E5D8C5',
         priceDelta: 0,
-        image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+        image: 'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85',
         inStock: true
       },
       {
@@ -205,7 +205,7 @@ export const PRODUCTS: Product[] = [
         material: 'Calacatta Viola',
         colorHex: '#5C3843',
         priceDelta: 1200,
-        image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+        image: 'https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1600&q=85',
         inStock: false
       }
     ],

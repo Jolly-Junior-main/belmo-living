@@ -8,7 +8,7 @@ export const COLLECTIONS: CollectionInfo[] = [
     subtitle: 'Pure geometry, grounded proportions, and rich tactile warmth.',
     description: 'Designed as structural centerpieces for contemporary residences. Emphasizing low-slung horizontal silhouettes, honest solid American walnut frames, and hand-tailored Italian textiles.',
     philosophy: 'Furniture should quiet the room, not clamor for attention. By distilling silhouettes to their structural essence, each piece becomes an enduring spatial anchor.',
-    heroImage: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1800&q=85',
+    heroImage: 'https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1800&q=85',
     palette: ['#F6F3ED', '#79563C', '#20201E', '#A98D6C'],
     productIds: ['prod-01', 'prod-02', 'prod-05', 'prod-06']
   },
