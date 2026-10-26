@@ -1,0 +1,68 @@
+import { CategoryInfo } from '@/types';
+
+export const CATEGORIES: CategoryInfo[] = [
+  {
+    name: 'Sofas & Sectionals',
+    slug: 'sofas-sectionals',
+    headline: 'Architectural Seating & Monolithic Loungers',
+    description: 'Sculpted profiles wrapped in tactile bouclé, nubuck, and vegetable-tanned Italian leathers, engineered for enduring comfort.',
+    image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 14,
+  },
+  {
+    name: 'Chairs & Loungers',
+    slug: 'chairs-loungers',
+    headline: 'Ergonomic Sculpture & Statement Accents',
+    description: 'Iconic armchairs and low-slung chaise lounges balancing solid American walnut frames with enveloping plush silhouettes.',
+    image: 'https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 18,
+  },
+  {
+    name: 'Living Room Furniture',
+    slug: 'living-room-furniture',
+    headline: 'Monolithic Tables, Credenzas & Consoles',
+    description: 'Honed Travertine slabs, solid smoked oak joinery, and minimalist media consoles designed to anchor modern living sanctuaries.',
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 22,
+  },
+  {
+    name: 'Bedroom Furniture',
+    slug: 'bedroom-furniture',
+    headline: 'Sanctuaries of Serenity & Restful Balance',
+    description: 'Low-profile upholstered platform beds, floating nightstands, and soft-close solid timber dressers designed for timeless slumber.',
+    image: 'https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 12,
+  },
+  {
+    name: 'Dining Room Furniture',
+    slug: 'dining-room-furniture',
+    headline: 'Gathering Centers of Tactile Elegance',
+    description: 'Expanding solid walnut dining tables, sculptural bench seating, and cantilevered dining chairs crafted for lingering conversations.',
+    image: 'https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 16,
+  },
+  {
+    name: 'Office Furniture',
+    slug: 'office-furniture',
+    headline: 'Executive Desks & Contemplative Workspaces',
+    description: 'Minimalist executive desks featuring concealed wire architecture, leather desktop inserts, and ergonomic task seating.',
+    image: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 9,
+  },
+  {
+    name: 'Outdoor Furniture',
+    slug: 'outdoor-furniture',
+    headline: 'All-Weather Architectural Living',
+    description: 'Grade-A teak, marine-grade powder-coated aluminum, and quick-dry reticulated foam designed for open-air grandeur.',
+    image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 11,
+  },
+  {
+    name: 'Home Accessories',
+    slug: 'home-accessories',
+    headline: 'Sculptural Lighting, Vessels & Wool Throws',
+    description: 'Hand-blown glass pendants, alabaster sconces, cast bronze vessels, and organic Mongolian cashmere throws.',
+    image: 'https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=1600&q=85',
+    itemCount: 24,
+  },
+];
